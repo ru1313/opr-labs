@@ -1,0 +1,16 @@
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\bin\Debug\net8.0-windows\ElectricCircuitCalculator.exe
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\bin\Debug\net8.0-windows\ElectricCircuitCalculator.deps.json
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\bin\Debug\net8.0-windows\ElectricCircuitCalculator.runtimeconfig.json
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\bin\Debug\net8.0-windows\ElectricCircuitCalculator.dll
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\bin\Debug\net8.0-windows\ElectricCircuitCalculator.pdb
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.Form1.resources
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.csproj.GenerateResource.cache
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.AssemblyInfoInputs.cache
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.AssemblyInfo.cs
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.csproj.CoreCompileInputs.cache
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.dll
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\refint\ElectricCircuitCalculator.dll
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.pdb
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ElectricCircuitCalculator.genruntimeconfig.cache
+E:\опр\ElectricCircuitCalculator\ElectricCircuitCalculator\obj\Debug\net8.0-windows\ref\ElectricCircuitCalculator.dll

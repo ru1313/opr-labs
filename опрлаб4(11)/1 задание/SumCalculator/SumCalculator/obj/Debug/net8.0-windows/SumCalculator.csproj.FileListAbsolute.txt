@@ -1,0 +1,16 @@
+E:\опр\SumCalculator\SumCalculator\bin\Debug\net8.0-windows\SumCalculator.exe
+E:\опр\SumCalculator\SumCalculator\bin\Debug\net8.0-windows\SumCalculator.deps.json
+E:\опр\SumCalculator\SumCalculator\bin\Debug\net8.0-windows\SumCalculator.runtimeconfig.json
+E:\опр\SumCalculator\SumCalculator\bin\Debug\net8.0-windows\SumCalculator.dll
+E:\опр\SumCalculator\SumCalculator\bin\Debug\net8.0-windows\SumCalculator.pdb
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.Form1.resources
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.csproj.GenerateResource.cache
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.AssemblyInfoInputs.cache
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.AssemblyInfo.cs
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.csproj.CoreCompileInputs.cache
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.dll
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\refint\SumCalculator.dll
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.pdb
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\SumCalculator.genruntimeconfig.cache
+E:\опр\SumCalculator\SumCalculator\obj\Debug\net8.0-windows\ref\SumCalculator.dll

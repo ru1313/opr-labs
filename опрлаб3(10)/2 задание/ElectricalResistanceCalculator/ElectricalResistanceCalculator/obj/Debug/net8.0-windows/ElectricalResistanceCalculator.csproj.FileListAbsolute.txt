@@ -1,0 +1,16 @@
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\bin\Debug\net8.0-windows\ElectricalResistanceCalculator.exe
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\bin\Debug\net8.0-windows\ElectricalResistanceCalculator.deps.json
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\bin\Debug\net8.0-windows\ElectricalResistanceCalculator.runtimeconfig.json
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\bin\Debug\net8.0-windows\ElectricalResistanceCalculator.dll
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\bin\Debug\net8.0-windows\ElectricalResistanceCalculator.pdb
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.Form1.resources
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.csproj.GenerateResource.cache
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.AssemblyInfoInputs.cache
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.AssemblyInfo.cs
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.csproj.CoreCompileInputs.cache
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.dll
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\refint\ElectricalResistanceCalculator.dll
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.pdb
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ElectricalResistanceCalculator.genruntimeconfig.cache
+E:\опр\ElectricalResistanceCalculator\ElectricalResistanceCalculator\obj\Debug\net8.0-windows\ref\ElectricalResistanceCalculator.dll

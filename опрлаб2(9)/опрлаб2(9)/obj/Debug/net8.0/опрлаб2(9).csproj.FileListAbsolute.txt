@@ -1,0 +1,14 @@
+E:\опр\опрлаб2(9)\опрлаб2(9)\bin\Debug\net8.0\опрлаб2(9).exe
+E:\опр\опрлаб2(9)\опрлаб2(9)\bin\Debug\net8.0\опрлаб2(9).deps.json
+E:\опр\опрлаб2(9)\опрлаб2(9)\bin\Debug\net8.0\опрлаб2(9).runtimeconfig.json
+E:\опр\опрлаб2(9)\опрлаб2(9)\bin\Debug\net8.0\опрлаб2(9).dll
+E:\опр\опрлаб2(9)\опрлаб2(9)\bin\Debug\net8.0\опрлаб2(9).pdb
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).GeneratedMSBuildEditorConfig.editorconfig
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).AssemblyInfoInputs.cache
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).AssemblyInfo.cs
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).csproj.CoreCompileInputs.cache
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).dll
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\refint\опрлаб2(9).dll
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).pdb
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\опрлаб2(9).genruntimeconfig.cache
+E:\опр\опрлаб2(9)\опрлаб2(9)\obj\Debug\net8.0\ref\опрлаб2(9).dll

@@ -1,0 +1,16 @@
+E:\опр\StudentRecords\StudentRecords\bin\Debug\net8.0-windows\StudentRecords.exe
+E:\опр\StudentRecords\StudentRecords\bin\Debug\net8.0-windows\StudentRecords.deps.json
+E:\опр\StudentRecords\StudentRecords\bin\Debug\net8.0-windows\StudentRecords.runtimeconfig.json
+E:\опр\StudentRecords\StudentRecords\bin\Debug\net8.0-windows\StudentRecords.dll
+E:\опр\StudentRecords\StudentRecords\bin\Debug\net8.0-windows\StudentRecords.pdb
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.Form1.resources
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.csproj.GenerateResource.cache
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.GeneratedMSBuildEditorConfig.editorconfig
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.AssemblyInfoInputs.cache
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.AssemblyInfo.cs
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.csproj.CoreCompileInputs.cache
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.dll
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\refint\StudentRecords.dll
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.pdb
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\StudentRecords.genruntimeconfig.cache
+E:\опр\StudentRecords\StudentRecords\obj\Debug\net8.0-windows\ref\StudentRecords.dll

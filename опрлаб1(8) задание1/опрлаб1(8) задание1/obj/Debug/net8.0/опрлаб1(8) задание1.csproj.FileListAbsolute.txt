@@ -1,0 +1,28 @@
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.AssemblyInfoInputs.cache
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.AssemblyInfo.cs
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.csproj.CoreCompileInputs.cache
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.exe
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.deps.json
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.runtimeconfig.json
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.dll
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.pdb
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.dll
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\refint\опрлаб1(8) задание1.dll
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.pdb
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.genruntimeconfig.cache
+C:\Users\Замир Закиев\source\repos\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\ref\опрлаб1(8) задание1.dll
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.exe
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.deps.json
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.runtimeconfig.json
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.dll
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\bin\Debug\net8.0\опрлаб1(8) задание1.pdb
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.GeneratedMSBuildEditorConfig.editorconfig
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.AssemblyInfoInputs.cache
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.AssemblyInfo.cs
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.csproj.CoreCompileInputs.cache
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.dll
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\refint\опрлаб1(8) задание1.dll
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.pdb
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\опрлаб1(8) задание1.genruntimeconfig.cache
+E:\опр\опрлаб1(8) задание1\опрлаб1(8) задание1\obj\Debug\net8.0\ref\опрлаб1(8) задание1.dll
